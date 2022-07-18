@@ -1,4 +1,4 @@
-package mypack;
+
 
 public class HelloWorldASU {
 
